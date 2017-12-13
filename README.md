@@ -1,4 +1,4 @@
-# G-Change-my-version
+# GSwitch
 It's a cute game... My first game, i lerned java with this game :)
 
 <p align="center">
